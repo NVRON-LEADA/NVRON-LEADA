@@ -72,11 +72,6 @@ Leada Digital Dynamics, the digital arm of Leada AI, has been instrumental in tr
 
 ---
 
-### 📈 Stats
-
-![Leada AI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leada-ai&show_icons=true&theme=radical)
-
----
 
 ### 🌱 Fun Fact
 
