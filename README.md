@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Leada AI</h1>
+<h1 align="center">👋 Hi, I'm Leada Digital Dynamics</h1>
 
 <p align="center">
 🚀 Building smart AI-driven solutions to automate workflows and power next-gen digital products.<br>
