@@ -1,122 +1,86 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Leada Digital Dynamics</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f1f4f8;
-      color: #1c1c1c;
-      margin: 0;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    .container {
-      max-width: 960px;
-      margin: auto;
-      background: #ffffff;
-      padding: 2rem;
-      border-radius: 20px;
-      box-shadow: 8px 8px 20px #d1d9e6, -8px -8px 20px #ffffff;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    .highlight {
-      background: #e6f0ff;
-      padding: 0.5rem;
-      border-radius: 8px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>🚀 Leada Digital Dynamics</h1>
-    <p><strong>Digital Marketing | Website Design | SEO | Branding</strong></p>
+<h1 align="center">👋 Hi, I'm Leada AI</h1>
 
-    <div class="section">
-      <h2>🎯 About Us</h2>
-      <p>At <strong>Leada Digital Dynamics</strong>, we craft bespoke digital solutions that get results. From clinics to cafes, our strategies are built to fit — and built to win.</p>
-      <ul>
-        <li>✅ <strong>Custom Strategies</strong> – Tailored to your audience and brand.</li>
-        <li>💬 <strong>Transparent Communication</strong> – No jargon, just results.</li>
-        <li>🌐 <strong>Full-Service Support</strong> – From the first post to full-scale growth.</li>
-      </ul>
-    </div>
+<p align="center">
+🚀 Building smart AI-driven solutions to automate workflows and power next-gen digital products.<br>
+🌐 Visit us: <a href="https://leada.ai">leada.ai</a>
+</p>
 
-    <div class="section">
-      <h2>🛠️ Our Services</h2>
-      <ul>
-        <li>🌍 Website Design & Hosting</li>
-        <li>🧭 Digital Consulting</li>
-        <li>🔍 SEO & Google My Business Optimization</li>
-        <li>🎨 Visual Identity & Branding</li>
-        <li>📢 Meta & Google Ad Campaigns</li>
-        <li>🖌️ Graphic Designing</li>
-        <li>🎥 Video Creation</li>
-        <li>📱 Social Media Content</li>
-      </ul>
-    </div>
+---
 
-    <div class="section">
-      <h2>🌟 Why Choose Leada?</h2>
-      <ul>
-        <li>🧠 Industry-Specific Expertise</li>
-        <li>📈 Real Strategy, Real Results</li>
-        <li>🧩 Always Custom, Never Copy-Paste</li>
-        <li>💬 We Speak Human</li>
-        <li>🚀 Full-Service, Start-to-Scale</li>
-      </ul>
-    </div>
+### 🔍 About Leada AI
 
-    <div class="section">
-      <h2>📍 Contact Us</h2>
-      <p>
-        📞 <strong>Phone</strong>: +91 80724 95649<br />
-        📧 <strong>Email</strong>: <a href="mailto:info@leada.in">info@leada.in</a><br />
-        🏢 <strong>Address</strong>:<br />
-        C2, V.M. Towers<br />
-        Selvakumarasamy Garden, Ganapathy<br />
-        Coimbatore - 641006, Tamil Nadu, India
-      </p>
-    </div>
+Leada AI is an innovative technology platform focused on developing artificial intelligence tools that simplify complex tasks and help organizations unlock data-driven decisions. Whether it's automation, intelligent data parsing, or predictive modeling, we design with purpose and precision.
 
-    <div class="section">
-      <h2>🔗 Quick Links</h2>
-      <ul>
-        <li><a href="https://www.leada.in/">Home</a></li>
-        <li><a href="https://www.leada.in/about-us">About Us</a></li>
-        <li><a href="https://www.leada.in/services">Services</a></li>
-        <li><a href="https://www.leada.in/contact">Contact</a></li>
-        <li><a href="https://www.leada.in/testimonials">Testimonials</a></li>
-      </ul>
-    </div>
+---
 
-    <div class="section">
-      <h2>📸 Clients in Action</h2>
-      <img src="https://www.leada.in/assets/images/clients/client1.jpg" width="100%" style="border-radius: 10px; margin-bottom: 1rem;" />
-      <img src="https://www.leada.in/assets/images/clients/client2.jpg" width="100%" style="border-radius: 10px; margin-bottom: 1rem;" />
-      <img src="https://www.leada.in/assets/images/clients/client3.jpg" width="100%" style="border-radius: 10px;" />
-    </div>
+### 👨‍💻 What We're Working On
 
-    <div class="section highlight">
-      <h3>📈 Let's Build Something Amazing Together</h3>
-      <p>Ready to elevate your digital presence? <a href="mailto:info@leada.in">Contact us</a> today and let's create your success story.</p>
-    </div>
+- 🤖 AI-powered document processing pipelines  
+- 🧠 NLP models for smart insights  
+- 📊 Dashboarding for real-time analytics  
+- 💼 Enterprise-ready integrations (Slack, Zapier, Webhooks, etc.)
 
-    <p>© 2025 · <strong>Leada Digital Dynamics</strong></p>
-  </div>
-</body>
-</html>
+---
+
+### 🤝 We're Open to Collaborate On
+
+- AI/ML model development  
+- Full-stack web applications  
+- Cloud-native solutions  
+- Mobile & cross-platform apps
+
+---
+
+### ⚒️ Tech Stack
+
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+#### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-000000?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+### 🌐 Our Work with Nvron Life Science
+
+Leada Digital Dynamics, the digital arm of Leada AI, has been instrumental in transforming the digital landscape of Nvron Life Science Ltd, a leading pharmaceutical manufacturer in India. Our collaboration encompasses:
+
+- **Website Development**: Crafted and maintained Nvron's official websites, ensuring a seamless user experience and robust backend infrastructure. :contentReference[oaicite:0]{index=0}
+
+- **Digital Campaigns**: Spearheaded digital marketing initiatives, enhancing Nvron's online presence and outreach. :contentReference[oaicite:1]{index=1}
+
+- **Project Coordination**: Streamlined project delivery processes, ensuring timely execution and client satisfaction. :contentReference[oaicite:2]{index=2}
+
+- **Photoblog Integration**: Developed and managed Nvron's Photoblog, a digital archive capturing company-wide events and milestones. :contentReference[oaicite:3]{index=3}
+
+---
+
+### 📫 Reach Us
+
+- 📧 Email: [contact@leada.ai](mailto:contact@leada.ai)  
+- 💼 LinkedIn: [Leada AI](https://linkedin.com/company/leada-ai)  
+- 🐦 Twitter: [@leada_ai](https://twitter.com/leada_ai)
+
+---
+
+### 📈 Stats
+
+![Leada AI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leada-ai&show_icons=true&theme=radical)
+
+---
+
+### 🌱 Fun Fact
+
+We believe in **open collaboration** and **responsible AI**. Our models are trained to empower users, not replace them.
+
+---
+
