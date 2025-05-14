@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 Building smart AI-driven solutions to automate workflows and power next-gen digital products.<br>
-🌐 Visit us: <a href="https://leada.ai">leada.ai</a>
+🌐 Visit us: <a href="https://www.leada.in/">leada.ai</a>
 </p>
 
 ---
@@ -66,8 +66,8 @@ Leada Digital Dynamics, the digital arm of Leada AI, has been instrumental in tr
 
 ### 📫 Reach Us
 
-- 📧 Email: [contact@leada.ai](mailto:contact@leada.ai)  
-- 💼 LinkedIn: [Leada AI](https://linkedin.com/company/leada-ai)  
+- 📧 Email: [contact@leada.ai](mailto:Info@leada.in)  
+- 💼 LinkedIn: [Leada AI](https://www.linkedin.com/in/leada-digital-dynamics-4633182a6/)  
 - 🐦 Twitter: [@leada_ai](https://twitter.com/leada_ai)
 
 ---
